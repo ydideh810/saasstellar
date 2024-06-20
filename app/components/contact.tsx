@@ -38,7 +38,7 @@ const Contact = () => {
                 <div className='flex justify-center lg:justify-start'>
                     <div className='flex flex-col gap-4 lg:items-start'>
                         <a
-                            href='https://twitter.com/NaderFerjani'
+                            href='https://twitter.com/niddam_ai'
                             className='inline-flex gap-2'
                             target='_blank'
                             rel='noopener noreferrer'
@@ -53,12 +53,8 @@ const Contact = () => {
                             rel='noopener noreferrer'
                         >
                             <LinkedinIcon className='h-6 w-6 text-primary' />{' '}
-                            <span>nader-ferjani</span>
+                            <span>niddam</span>
                         </a>
-                        <span className='flex items-center gap-2'>
-                            <Discord className='h-6 w-6 fill-primary' />{' '}
-                            <span>stormynight9</span>
-                        </span>
                     </div>
                 </div>
             </div>
