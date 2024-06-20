@@ -44,7 +44,7 @@ const Contact = () => {
                             rel='noopener noreferrer'
                         >
                             <TwitterIcon className='h-6 w-6 text-primary' />{' '}
-                            @NaderFerjani
+                            @niddam_ai
                         </a>
                         <a
                             href='https://www.linkedin.com/in/nader-ferjani/'
