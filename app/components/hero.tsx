@@ -65,11 +65,10 @@ const Hero = () => {
                 transition={{ duration: 0.5, ease: 'easeOut', delay: 0.2 }}
                 className='text-base text-muted-foreground lg:text-lg'
             >
-                Welcome to <span className='text-primary'>SaaSStellar</span>,
-                your gateway to streamlined operations, innovation, enhanced
-                productivity, and limitless growth opportunities.{' '}
+                Welcome to <span className='text-primary'>Niddam</span>,
+                your gateway to the world of private AI.{' '}
                 <span className='hidden lg:block'>
-                    Discover a brighter future with us.
+                    Discover the power of AI without sacrificing privacy.
                 </span>
             </motion.p>
             <motion.form
