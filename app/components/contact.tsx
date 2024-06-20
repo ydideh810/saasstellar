@@ -31,8 +31,7 @@ const Contact = () => {
                         to reach out. I'd love to hear from you!
                     </span>
                     <span className='block lg:hidden'>
-                        Questions, ideas, or collaborations? Reach out—I'm all
-                        ears!
+                        Questions, ideas, or collaborations? Reach out today!
                     </span>
                 </p>
                 <div className='flex justify-center lg:justify-start'>
