@@ -32,7 +32,7 @@ const Pricing = () => {
                     </h1>
                 </div>
                 <p className='text-lg text-muted-foreground'>
-                    Select the ideal plan for your business requirements
+                    Select the ideal plan for your requirements
                 </p>
                 <div className='mt-20 flex items-center justify-center space-x-2'>
                     <Label
