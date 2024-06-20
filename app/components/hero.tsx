@@ -60,7 +60,7 @@ const Hero = () => {
                         theme === 'rose' && 'to-pink-600'
                     )}
                 >
-                    Simplicity.
+                   NIDDAM
                 </span>
             </motion.h1>
             <motion.p
