@@ -38,7 +38,10 @@ const Hero = () => {
                     of{' '}
                 </span>
                 <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
-                    SaaS{' '}
+                    Private{' '}
+                </span>
+                  <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
+                    AI{' '}
                 </span>
                 <span
                     className={cn(
