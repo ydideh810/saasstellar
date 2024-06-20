@@ -37,12 +37,7 @@ const Hero = () => {
                 <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
                     of{' '}
                 </span>
-                <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
-                    Private{' '}
-                </span>
-                  <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
-                    AI{' '}
-                </span>
+              
                 <span
                     className={cn(
                         'relative bg-gradient-to-r from-primary bg-clip-text text-5xl font-extrabold text-transparent lg:text-8xl',
