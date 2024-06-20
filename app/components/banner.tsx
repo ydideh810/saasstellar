@@ -19,7 +19,7 @@ const Banner = () => {
                         <div>
                             <h1 className='mt-4 scroll-m-20  text-center font-inter text-4xl font-extrabold tracking-tight lg:text-left lg:text-5xl'>
                                 <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
-                                    Empower{' '}
+                                    Empower yourself{' '}
                                 </span>
                                 <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
                                     and{' '}
@@ -31,16 +31,13 @@ const Banner = () => {
                                     your{' '}
                                 </span>
                                 <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
-                                    business's{' '}
-                                </span>
-                                <span className='bg-gradient-to-b from-foreground to-foreground/70 bg-clip-text text-transparent'>
-                                    productivity
+                                    ventures{' '}
                                 </span>
                             </h1>
                         </div>
                         <p className='text-center text-lg text-muted-foreground lg:text-left'>
-                            Unlock the potential of your business with
-                            SaaSStellar. Experience simplified operations.
+                            Unlock your growth potential with
+                            Niddam. Experience private AI.
                         </p>
                         <form
                             onSubmit={handleSubmit}
